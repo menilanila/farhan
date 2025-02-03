@@ -1,4 +1,4 @@
 package com.car.farhan.repository;
 
-public interface CustomerRepository {
+public interface UserRepository {
 }

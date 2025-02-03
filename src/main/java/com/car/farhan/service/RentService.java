@@ -1,4 +1,4 @@
 package com.car.farhan.service;
 
-public class CustomerService {
+public class RentService {
 }

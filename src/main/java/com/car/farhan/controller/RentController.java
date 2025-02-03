@@ -1,4 +1,4 @@
 package com.car.farhan.controller;
 
-public class CompanyController {
+public class RentController {
 }
