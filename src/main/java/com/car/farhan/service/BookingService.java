@@ -1,8 +1,5 @@
 package com.car.farhan.service;
 
-import com.car.farhan.model.Booking;
-import com.car.farhan.repository.AdminRepository;
-import com.car.farhan.repository.BookingRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
